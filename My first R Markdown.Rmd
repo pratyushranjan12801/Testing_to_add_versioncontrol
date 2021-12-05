@@ -1,15 +1,13 @@
 ---
-title: "HelloWorld"
+title: "My first R Markdown"
 author: "Pratyush"
 date: "05/12/2021"
-output: word_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-## This is a markdown file
 
 ## R Markdown
 
